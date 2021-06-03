@@ -1,3 +1,5 @@
 input1 = input("Please enter the value: ")
-print (input1)
+# python 2.x
+print 'input1'
+#python 3.x
 print(input1)
